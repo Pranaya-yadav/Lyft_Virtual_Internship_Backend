@@ -1,7 +1,8 @@
 # Lyft Back-End Engineering Virtual Experience Program
 
 ### Overview
-Program assignment for "Lyft Back-End Engineering Virtual Experience Program" held by Forage. Tasks include: software architecture, refactoring, unit-testing, and test-driven-development.
+Program assignment for "Lyft Back-End Engineering Virtual Experience Program" held by Forage. 
+#### Tasks include : software architecture, refactoring, unit-testing, and test-driven-development.
 
 ### Tools
 <p align="left">
